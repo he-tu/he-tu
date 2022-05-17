@@ -1,5 +1,5 @@
 {
-  "name": "@hetu/graph",
+  "name": "hetu-luoshu",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/he-tu/hetu.git"
+    "url": "git+https://github.com/he-tu/hetu-luoshu.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/he-tu/hetu/issues"
+    "url": "https://github.com/he-tu/hetu-luoshu/issues"
   },
-  "homepage": "https://github.com/he-tu/hetu#readme"
+  "homepage": "https://github.com/he-tu/hetu-luoshu#readme"
 }
